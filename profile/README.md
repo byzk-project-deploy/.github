@@ -50,6 +50,6 @@
 
 # 功能说明
 
-1. [终端程序功能说明](../terminal-client)
+1. [终端程序功能说明](/terminal-client)
 
 2. 
